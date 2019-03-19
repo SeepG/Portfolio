@@ -1,0 +1,38 @@
+
+/* Background image */
+
+body{
+  margin: 0;  
+}
+
+/* tried first, opacity didn't work */
+	/* background: url("..//docs/background.jpg"); */
+	/* background-size: cover;
+	position: absolute;
+	background-blend-mode: lighten; 
+	opacity: 0.2;
+  filter: alpha(opacity=20) */
+/* 
+div {
+  width: 100vw;
+  height: 100vh;
+  display: flex; */
+  /* position: relative; */
+/* } */
+
+/* No css property background-opacity, but by creating a pseudo element with regular opacity we can fake it. */
+
+.background-image {
+ /* div::after { */
+    content: "";
+    background: url("..//docs/background.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.3;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    position: absolute;
+    z-index: -1; 
+}
