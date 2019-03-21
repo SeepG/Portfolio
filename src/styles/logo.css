@@ -3,7 +3,9 @@ personal logo  */
 
  .logo {
   display: flex;
-  /* justify-content: center;
-	align-items: center;
-  padding-top: 60px; */
+  justify-content: left;
+  align-items: left;
+  /* width: 53px;
+  height: 23px; */
+  padding-top: 40px;
 }
