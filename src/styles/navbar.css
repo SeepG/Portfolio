@@ -1,4 +1,12 @@
 
+.flex-nav-container {
+  display: flex;
+  height: 200px;
+  align-items: flex-start;
+  justify-content: space-between;
+  margin: 20px;
+}
+/* 
 body {
   margin:0;
 }
@@ -27,7 +35,7 @@ body {
   /* color: green;
 } */ 
 
-/* .link:hover {
+/*.link:hover {
   /* transform: scale(1.1); */
   /* color: purple;
 } */ 

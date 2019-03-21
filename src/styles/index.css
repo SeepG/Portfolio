@@ -7,9 +7,11 @@
 
 /* Other stuff */
 
-@import 'container.css'; 
+/* @import 'container.css'; */
 
-@import 'navbar.css';
+@import 'navbar.css'; 
+
+@import 'cover.css';
 
 
 

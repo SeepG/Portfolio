@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<title> Personal Portfolio </title>
 	<link rel ="stylesheet" type="text/css" media="screen"href="styles/index.css">
@@ -12,18 +12,23 @@
 </head>
 <body>
 <div id="container"> 
-	    <div id="cover" w3-include-html="htmls/cover.html"></div> 
-			        <div id="logo" w3-include-html="htmls/logo.html"></div>
-			                  <div id="profile-pic" w3-include-html="htmls/profile-pic.html"></div> 
-</div>
-	<div id="text-container">
-		<div id="about-container" w3-include-html="htmls/about.html"></div>
-		<div id="skills-container" w3-include-html="htmls/skills.html"></div>
-		<div id="contact-container" w3-include-html="htmls/contact.html"></div>
-		<div id="email-container" w3-include-html="htmls/email-container.html"></div>
-	</div>
+			<div id="cover" class="flex-cover-container">
+				<img id="logo" src="..//src/img/sglogo.png"/>
+				<img id="profile-pic" src="..//src/img/seep.png"/>
+			</div> 
 
-	<div id="navigation" w3-include-html="htmls/navigation.html">
+		<div id="text-container">
+			<div id="about-container" w3-include-html="htmls/about.html"></div>
+			<div id="skills-container" w3-include-html="htmls/skills.html"></div>
+			<div id="contact-container" w3-include-html="htmls/contact.html"></div>
+			<div id="email-container" w3-include-html="htmls/email-container.html"></div>
+		</div>
+
+		<div id="navigation" class="flex-nav-container">
+			<a href="javascript:void(0);" onclick="ToggleView('About')" >About</a>
+			<a href="javascript:void(0);" onclick="ToggleView('Skills')">Skills</a>
+			<a href="javascript:void(0);" onclick="ToggleView('Contact')">Contact</a>
+		</div>
 </div>
 		
 <!-- <div class="navbar">

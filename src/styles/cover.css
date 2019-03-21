@@ -1,0 +1,22 @@
+.flex-cover-container {
+  display: flex;
+  height: 200px;
+  align-items: flex-start;
+  background-image: url("..//img/cover.png");
+  justify-content: space-between;
+}
+
+.flex-cover-container > #logo {
+  width: 100px;
+  margin: 10px;
+  text-align: center;
+  height: 80px;
+  /* font-size: 30px; */
+}
+.flex-cover-container > #profile-pic {
+  width: 145px;
+  margin: 20px;
+  text-align: center;
+  height: 175px;
+  /* font-size: 30px; */
+}
