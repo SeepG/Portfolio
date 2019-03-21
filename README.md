@@ -22,4 +22,6 @@ Simple fonts, pleasing color scheme
 memorablity
 
 
+Site Map
+.docs/sitemap.png
 

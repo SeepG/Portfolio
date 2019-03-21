@@ -2,22 +2,20 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<title> Personal Portfolio </title>
-	<link rel ="stylesheet" href="styles/index.css">
+	<link rel ="stylesheet" type="text/css" media="screen"href="styles/index.css">
 	<script src="scripts/w3-include.js" type="text/javascript"></script>
 	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 	<script src="scripts/app.js" type="text/javascript"></script>
 </head>
 <body>
-<div id="container">
-	<div id="cover"> 
-			<div id="logo" w3-include-html="htmls/logo.html"></div>
-			<div id="profile-pic" w3-include-html="htmls/profile-pic.html"></div>
-		</div>
+<div id="container"> 
+	    <div id="cover" w3-include-html="htmls/cover.html"></div> 
+			        <div id="logo" w3-include-html="htmls/logo.html"></div>
+			                  <div id="profile-pic" w3-include-html="htmls/profile-pic.html"></div> 
 </div>
-
 	<div id="text-container">
 		<div id="about-container" w3-include-html="htmls/about.html"></div>
 		<div id="skills-container" w3-include-html="htmls/skills.html"></div>
@@ -26,15 +24,9 @@
 	</div>
 
 	<div id="navigation" w3-include-html="htmls/navigation.html">
-	</div>
 </div>
-	<!-- <div class="container">
 		
-		<div class="content">
-			<p>I’m Seep Gulati, a developer-in making. Trace my journey from PR  to Dev. </p>
-		</div>
-	</div>	
-<div class="navbar">
+<!-- <div class="navbar">
 			<div class="navbar-logo">
 				<h3 class="logo"><i class="fab fa-affiliatetheme"></i></h3>
 			</div>
@@ -42,8 +34,7 @@
 				<a href="" class="navbar-links">About</a>
 				<a href="" class="navbar-links">Projects</a>
 				<a href="" class="navbar-links">Contact</a>
-			</div>
-</div> -->
+			</div> -->
 <script>
 		includeHTML();
 		ToggleView('About');

@@ -5,40 +5,29 @@ body {
 
 .navbar {
   overflow: hidden;
-  /* height: 60px; */
-  /* box-shadow: var(--shadow); */
+  height: 60px;
+  box-shadow: var(--shadow);
   background-color: pink;
   position: fixed;
   bottom: 0;
   width: 100%;
 }
-/* 
-.navbar-logo {
-  float:left;
-  height: 70px;
-  display: flex;
-  align-items: center;
-}
 
-.logo {
-  margin-left: 15px;
-} */
-
-.navbar-links {
+ .navbar-links {
   display: flex;
   float: right;
   height: 100%;
   align-items: flex-end;
 }
-
+/* 
 .link {
   /* padding: 0px 15px 0px 20px; */
-  margin-left: 15px;
-  text-decoration: none;
-  color: green;
-}
+  /* margin-left: 15px;
+  /* text-decoration: none; */
+  /* color: green;
+} */ 
 
-.link:hover {
+/* .link:hover {
   /* transform: scale(1.1); */
-  color: purple;
-}
+  /* color: purple;
+} */ 

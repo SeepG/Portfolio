@@ -1,15 +1,52 @@
-.container {
-  height: 100vh;
-  /* background-image: url('../img/background.jpg');
-  background-repeat: no-repeat;
-  background-size: cover; */
-  display: flex;
-  flex-direction: column;
-  position: relative;
-  /* opacity: 0.3; */
+
+body {
+margin: 0px;
+height: 100vh;
+background: white;
 }
 
-.content {
+.container {
+  display: flex;
+  padding: 20px;
+  height: 600px;
+  width: 600px;
+  background-image: url(..//img/cover.png);
+  justify-content: center;
+}
+
+.cover {
+ height: 50px;
+}
+
+.logo {
+ padding-right: 79%;
+ }
+
+ .profile-pic {
+  position: relative;
+  }
+
+  @media screen and (min-width: 700px) {
+    .container {
+      display: none;
+    }
+/* 
+ .avatar {
+  width: 75px;
+  height: 75px;
+  border-radius: 50%;
+  background: url('./profile.jpg');
+  background-position: center;
+  background-size: cover;
+} */
+
+
+ /* height: 20vh; */
+  /* background-repeat: no-repeat;
+  background-size: cover; 
+    /* position: relative; */
+/* 
+.cover {
   position: absolute;
   top: 60%;
   left: 35%;
@@ -18,8 +55,15 @@
   width: 40vw;
   height: 20vh;
   opacity: 0.7;
-  text-align: center;
-  font-family:'Lato', sans-serif;
-  font-style: Bold;
-  Font-size: 25;
-  }
+  /* text-align: center;
+  font-family:'Lato', sans-serif; */
+  /* font-style: Bold; */
+  /* Font-size: 25; */
+
+  /* display: flex; */
+  /* justify-content: right;
+  align-items: right;
+  width: 53px;
+  height: 23px; */ 
+
+  /* padding-top: 60px; */
