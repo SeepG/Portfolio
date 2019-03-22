@@ -1,21 +1,18 @@
 
 .flex-nav-container {
   display: flex;
-  height: 200px;
+  height: 20px;
   align-items: flex-start;
   justify-content: space-between;
   margin: 20px;
 }
 
-/* 
 .link {
-  /* padding: 0px 15px 0px 20px; */
-  /* margin-left: 15px;
-  /* text-decoration: none; */
-  /* color: green;
-} */ 
+  background-color:#55B9FF;
+  color:white;
+  cursor: pointer;
+}
 
-/*.link:hover {
-  /* transform: scale(1.1); */
-  /* color: purple;
-} */ 
+.link:hover {
+  background-color: #41D6BF;
+}
