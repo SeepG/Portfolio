@@ -6,27 +6,7 @@
   justify-content: space-between;
   margin: 20px;
 }
-/* 
-body {
-  margin:0;
-}
 
-.navbar {
-  overflow: hidden;
-  height: 60px;
-  box-shadow: var(--shadow);
-  background-color: pink;
-  position: fixed;
-  bottom: 0;
-  width: 100%;
-}
-
- .navbar-links {
-  display: flex;
-  float: right;
-  height: 100%;
-  align-items: flex-end;
-}
 /* 
 .link {
   /* padding: 0px 15px 0px 20px; */

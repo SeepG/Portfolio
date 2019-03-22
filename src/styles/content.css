@@ -20,11 +20,18 @@ h2{
 	text-align: center;
 }
 
+#logo {
+	animation-name: swing;
+	animation-duration: 3s;
+	animation-delay: 2s;
+	/* animation-iteration-count: 2s; */
+}
+
 #contact{
 	display: flex;
   align-items: flex-start;
   justify-content: space-between;
-  margin: 20px;
+	margin: 20px;
 }
 
 .skills-icon{

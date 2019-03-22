@@ -23,5 +23,6 @@ memorablity
 
 
 Site Map
-.docs/sitemap.png
+
+[a relative link](docs/sitemap.png)
 
