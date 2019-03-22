@@ -1,3 +1,4 @@
+
 .text-container{
 	border: 2px solid #41D6BF;
 	height: 100%;
@@ -21,10 +22,10 @@ h2{
 }
 
 #logo {
-	animation-name: swing;
+	animation-name: flip;
 	animation-duration: 3s;
 	animation-delay: 2s;
-	/* animation-iteration-count: 2s; */
+	animation-iteration-count: 2;
 }
 
 #contact{
@@ -37,5 +38,6 @@ h2{
 .skills-icon{
 	height: 60px;
 	width: 60px;
+	color: black;
 }
 	 
