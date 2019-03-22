@@ -1,10 +1,6 @@
 
-	body {
-			margin: 0px;
-			height: 100vh;
-			background: white;
-	}
-
+	
+/* 
 	.container {
 			display: flex;
 			padding: 20px;
@@ -12,8 +8,8 @@
 			width: 600px;
 			background-image: url(..//img/cover.png);
 			justify-content: center;
-	}
-
+	} */
+/* 
 	.cover {
 			height: 50px;
 	}
@@ -24,9 +20,10 @@
 
 	.profile-pic {
 			position: relative;
-	}
-
-	@media screen and (min-width: 700px) {
+	} */
+/* 
+	@media screen and (min-width: 600px) {
 			.container {
-					display: none;
+					background: blue;
 			}
+		} */

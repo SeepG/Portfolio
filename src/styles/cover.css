@@ -1,3 +1,4 @@
+
 .flex-cover-container {
   display: flex;
   height: 200px;
@@ -11,6 +12,10 @@
   margin: 10px;
   text-align: center;
   height: 80px;
+  animation-name: flip;
+	animation-duration: 3s;
+	animation-delay: 2s;
+	animation-iteration-count: 2;
 }
 
 .flex-cover-container > #profile-pic {
@@ -18,4 +23,10 @@
   margin: 20px;
   text-align: center;
   height: 175px;
+}
+
+@media screen and (min-width: 600px) {
+  .container {
+      background: blue;
+  }
 }

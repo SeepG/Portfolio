@@ -7,10 +7,14 @@
   margin: 20px;
 }
 
-.link {
+.link{
   background-color:#55B9FF;
   color:white;
   cursor: pointer;
+	font-family:'Roboto', sans-serif;
+	font-weight: bold;
+	font-size: 1.7em;
+	padding: 12px;
 }
 
 .link:hover {
