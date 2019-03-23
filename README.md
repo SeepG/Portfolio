@@ -32,9 +32,7 @@ Site Map
 
 This website has four pages - About, Skills, Contact (linked to form sheet).
 
-[a relative link](docs/sitemap-final.png)
-
-  
+![alt_text](https://raw.githubusercontent.com/SeepG/Portfolio/final-with-animation/docs/sitemap-final.png)
 
 Screenshots of website
 
