@@ -2,15 +2,15 @@
 <h1>Send me email.</h1>
 
 <div id="email">
-<form action="https://formspree.io/seepgulati@gmail.com" method="POST">
+<form action="https://formspree.io/seepgulati@gmail.com" method="POST" class="email-form">
 
-  <input type="email" name="name"placeholder="Your name"/>
+  <input type="text" name="name"placeholder="Your name" maxlength="100" class="email-form-input"/>
 
-  <textarea type="text" name="message" rows="10" cols="30" placeholder="Your message"></textarea>
+  <textarea type="text" name="message" rows="20" cols="30" maxlength="3000" class="email-form-input" placeholder="Your message"></textarea>
 
-  <input type="email" name="_replyto"placeholder="Email"/>
+  <input type="email" class="email-form-input" name="_replyto"placeholder="Email"/>
 
-  <input type="submit" value="Send"placeholder="Submit">
+  <input type="submit" value="Send"placeholder="Submit" class="email-submit-button"/>
 
 </form>
 
