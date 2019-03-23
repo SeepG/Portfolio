@@ -1,153 +1,110 @@
-# Portfolio Website
+# Portfolio 
 
-Link to your published portfolio website 
-https://seepgulati.co
+ - Link to your published portfolio website  https://seepgulati.co
+ 
+ - Link to your GitHub repository https://github.com/SeepG/Portfolio
 
-Link to your GitHub repository
+## Description of portfolio 
 
-https://github.com/SeepG/Portfolio
-
-**Description of portfolio website**  
-
-Purpose
+**Purpose**
 
 This website will serve as an online showcase of my programming skills.
 
-Features
+**Features**
 
-1. CSS animation to showcase logo.
-2. Single page app.
-3. Three tabs: About, Skills and Contact. To get to those tabs, the screen doesn't load each time, giving you a mobile app experience.
-4. Bottom navigation bar with hover effect.
-5. Java script click function hides other tabs when one is active.
-6. Hyperlinked icons on skills and contact page opens new tab for relevant websites.
-7. Form embedded on 'Email' icon on contact page opens as new page, allowing user to send me emails.
+ - CSS animation to showcase logo.
+ - Single page application.  Bottom navigation bar with hover effect.
+ - Three tabs: About, Skills and Contact. When the user clicks those
+    tabs, the screen doesn't load each time, giving you a mobile app
+    experience.
+ - Javascript click function hides other tabs when one is active.
+ - Hyperlinked icons on skills and contact page open a new tab for
+    relevant websites.
+ - Form embedded on the 'Email' icon on the contact page opens a new
+     page, allowing the user to send me emails
+        
+**Target audience**
+ - Primary audience: Recruiters and Teachers
+ - Secondary audience: Family and Friends
 
-Target audience
-Primary audience: Recruiters and Teachers,
-Secondary audience: Family and Friends
+**Site Map**
+This website has three pages - About, Skills and Contact
+#(TO ADD) - Sitemap![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 
-Site Map
-
-This website has three pages - About, Skills and Contact.
-
+**Screenshots of website**
 #(TO ADD)
-path suggestion link
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-
-Screenshots of website
-
-#(TO ADD)
-
-- About page - 
-
-- Skills page
-
-- Contact Page
-
-- Email form
+ - About page
+ - Skills page
+ - Contact Page
+    - Email form
 
 Tech stack (e.g. HTML, CSS, deployment platform, etc.)
 
-1. I worked with HTML for making the template and used CSS for styling. 
-2. A domain name was registered on Ventraip.com.au and configured on Netlify. 
-3. Lastly, after uploading the data from Github repository, the site was deployed on Netlify.
+ - [ ] Designing and Userablity considerations
+ - [ ] Creating Git repository
+ - [ ] HTML for making the template and CSS for
+       styling. 
+ - [ ] Git committing each version
+ - [ ] Domain name registration on Ventraip 
+ - [ ] Configuration on Netlify
+ - [ ] Uploading Github repository
+ - [ ] Deployment
   
-Design documentation
+**Design process**
 
-Design process
+This website is designed as *'mobile-first'* due to a limited time frame. However, it is responsive in its behaviour. Later on, I have planned to scale it up with desktop and tablet versions
 
-This website is designed as 'mobile-first' due to time constraints. However, it is responsive in its behaviour. I have planned to scale it up with desktop and tablet versions.
-
-Wireframes - Screenshots
+**Wireframes - Screenshots**
 
 Wireframes were designed for Mobile and Desktop versions that gave a clear idea about the design and code flow.
 
-#(TO ADD)
+#(TO ADD) - Picture Personal logo
 
+**Personal logo**  
+Purpose - I designed this personal logo to serve as my brand identity.
 
-Personal logo
-
-Purpose
-
-I designed this personal logo to serve as my brand identity.
-
-#(TO ADD)
-
-Description
-
-This logo depicts the ideology of ‘Growth Mindset’, which was coined by Dr. Carol Dweck.
+**Description**
+This logo depicts the ideology of ‘Growth Mindset’, which was coined by Dr Carol Dweck.
 
 I have used my initials ‘SG’ and played around with a green dot which is my little contribution to the world. I support people by introducing them to Growth Mindset-"the power of believing that they can improve their abilities and intelligence by effort and commitment".
-  
-Color scheme is white, black and a dash of green - White and black stands for yin and yang of life, whereas green is colour of life and is associated with meanings of growth, harmony etc.
+
+Colour scheme is white, black and a dash of green - White and black stands for yin and yang of life, whereas green is colour of life and is associated with meanings of growth, harmony etc.
 
 Dribble link: https://dribbble.com/shots/6201255-Figma
+ 
+**Design and usability inspiration**
+#(TO ADD) Pictures - Inspiration, usability
 
-Design and usability inspiration
+Grammarly is easy to use, has simple fonts and memorability.  Green and white colours are natural on the eye.
 
-Pictures - Inspiration, usablity
-#(TO ADD)
+**Usability considerations**
+I designed this mobile version after careful consideration of mobile-usability guidelines. I observed people in public spaces and got an understanding of how they generally hold their mobile phones.
 
-Grammarly – Easy to use, simple fonts and memorablity. Subtle green and white color scheme is easy on eyes.
+ Therefore, the design reflects this user-behaviour research. The main content is in the centre of the screen and navigation bar is at the bottom. The tab links are in big font allowing the user to access through thumb easily.
 
-Usability considerations
-This website designed after a careful consideration of mobile-usablity guidelines. This design was planned after observing people in public spaces and understanding how they generally hold their mobile phones.
+**Project plan & timeline**
 
-
-After the careful consideration of mobile-usablity guidelines, I the main content is in centre of screen and nav bar is at the bottom. The tab links are in big font allowing user to easily access through thumb. 
-
-  
-
-Details of planning process
-
-  
-
-Project plan & timeline
-
-Usablity consideration - Day 1
-
+Usability consideration - Day 1
 Design planning - Day 1
-
 Design layout - Day 2
-
 HTML structure - Day 3
-
 Drafting content - Day 3
-
 CSS styling - Day 4
-
 Fine tuning elements - Day 4
-
-Committing each version to Github
-
-Testing at each stage
-
-Documentation - Day 5
-
-Domain name selection and configeration - Day 6
-
+Documentation - Day 4 &5
+Domain name selection and configuration - Day 6
 Deployment - Day 6
-
   
-
-Screenshots of Trello board(s)
+**Screenshots of Trello board(s)**
 
 ##TO ADD
 
+Short Answer Q&A 
+
+**Describe key events in the development of the internet from the 1980s to today (max. 150 words)**
   
-
-Short Answer Q&A - Include short answers to the following questions
-
   
-
-Describe key events in the development of the internet from the 1980s to today (max. 150 words)
-
+**Define and describes the relationship between fundamental aspects of the internet such as: domains, web servers, DNS, and web browsers (max. 150 words)**
   
-
-Define and describes the relationship between fundamental aspects of the internet such as: domains, web servers, DNS, and web browsers (max. 150 words)
-
   
-
-Reflect on one aspect of the development of internet technologies and how it has contributed to the world today (max. 150 words)
-  
+**Reflect on one aspect of the development of internet technologies and how it has contributed to the world today (max. 150 words)**
