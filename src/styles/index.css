@@ -5,7 +5,7 @@
 
 @import url("https://fonts.googleapis.com/css?family=Lato");
 
-/* Other stuff */
+/* Others */
 
 @import 'content.css';
 
@@ -13,8 +13,6 @@
 
 @import 'cover.css';
 
-@import 'container.css';
-
-
+@import 'email-form.css';
 
 
