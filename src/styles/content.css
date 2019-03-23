@@ -1,7 +1,7 @@
 
 .text-container{
-	border: 2px solid #41D6BF;
-	height: 100%;
+	/* border: 2px solid #41D6BF; */
+	height: 55vh;
 	margin: 2%;
 }
 
@@ -25,14 +25,6 @@ h2{
 	margin: 2%;
 }
 
-#email{
-	margin: 1%;
-	text-align: center;
-	padding: 12px;
-	font-size: 3em;
-	margin: auto;
-}
-
 #contact{
 	display: flex;
 	align-items: flex-start;
@@ -54,21 +46,14 @@ h2{
 	margin: 20px;
 }
 
-.email-form{
-	justify-content: center;
-    display: flex;
-    flex-direction: column;
-	width: 50vw;
-	margin-left: 20vw;
+.content-scroll{
+	overflow-y: scroll; 
+	height:90vh;
 }
 
-.email-form-input{
-	margin-bottom: 5vh;
-}
-
-.email-submit-button{
-	width: 25vw;
-    margin-left: 10vw;
+.body-preventscroll{
+	overflow:hidden; 
+	height: 95vh;
 }
 
 @media screen and (max-width: 600px){
@@ -76,6 +61,12 @@ h2{
 		flex-direction: column;
 		align-items: center
 	}
+
+	.content-scroll{
+		height: 78vh;
+		overflow-y: scroll;
+	}
+
 }
 
 @media screen and (max-width: 500px){
