@@ -62,11 +62,6 @@ h2{
 		align-items: center
 	}
 
-	.content-scroll{
-		height: 78vh;
-		overflow-y: scroll;
-	}
-
 }
 
 @media screen and (max-width: 500px){
