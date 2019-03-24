@@ -104,7 +104,25 @@ Short Answer Q&A
 **Describe key events in the development of the internet from the 1980s to today (max. 150 words)**
   
   
-**Define and describes the relationship between fundamental aspects of the internet such as: domains, web servers, DNS, and web browsers (max. 150 words)**
+
+
+
+
+
+
+
   
-  
+**Define and describe the relationship between fundamental aspects of the internet such as: domains, web servers, DNS, and web browsers (max. 150 words)**
+
+Domains are names which client wants to access e.g. seepgulati.co
+
+Domain Name Server (DNS) is a directory which keep records of all names e.g. Netlify which is seepgulati.co DNS
+
+Web Server is a site which holds all site information (HTML pages) and hosts it e.g. Netlify is also hosting seepgulati.co
+
 **Reflect on one aspect of the development of internet technologies and how it has contributed to the world today (max. 150 words)**
+
+I find Google Maps very fascinating, because without it the world was dependent on paper maps. 
+Thanks to the advancement in technology space we can now go into totally unknown area, but Google Maps will see us through.
+
+Google Maps has made our lives a lot easier and more productive by allowing us to navigate while we walk/drive in real-time, that too in just a span of a decade. 
