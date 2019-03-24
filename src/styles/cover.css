@@ -19,10 +19,10 @@
 }
 
 .flex-cover-container > #profile-pic {
-  width: 12vw;
+  width: 145px;
   margin: 20px;
   text-align: center;
-  height: 20vh;
+  height: 175px;
 }
 
 @media screen and (max-width: 500px){
