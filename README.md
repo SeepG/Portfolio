@@ -40,25 +40,19 @@ relevant links.
 
 This website has three pages - About, Skills and Contact
 
-![alt text](https://raw.githubusercontent.com/SeepG/Portfolio/master/docs/sitemap.png)
+![alt text](https://raw.githubusercontent.com/SeepG/Portfolio/master/docs/website/sitemap.png)
 
 **Screenshots of website**
 
-#(TO ADD)
+![alt_text](https://raw.githubusercontent.com/SeepG/Portfolio/master/docs/website/about.png) 
 
-- About page
+![alt_text](https://raw.githubusercontent.com/SeepG/Portfolio/master/docs/website/skills.png)
 
-- Skills page
+![alt_text](https://raw.githubusercontent.com/SeepG/Portfolio/master/docs/website/Contact.png)
 
-- Contact Page
-
-- Email form
-
-  
+![alt_text](https://raw.githubusercontent.com/SeepG/Portfolio/master/docs/website/Emailform.png)
 
 Tech stack (e.g. HTML, CSS, deployment platform, etc.)
-
-  
 
 - [ ] Designing and Userablity considerations
 
@@ -78,15 +72,13 @@ Tech stack (e.g. HTML, CSS, deployment platform, etc.)
 
 **Design process**
 
-  
-
 This website is designed as *'mobile-first'*. However, it is responsive and works in Desktop as well.
-
-  
 
 **Wireframes - Screenshots**
 
+https://github.com/SeepG/Portfolio/tree/master/docs/wireframes
 
+[This is an relative link to a nested file](docs/wireframes)
 
 Wireframes were designed for Mobile and Desktop versions that gave a clear idea about the design and code flow.
 
