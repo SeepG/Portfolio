@@ -24,3 +24,21 @@
   text-align: center;
   height: 20vh;
 }
+
+@media screen and (max-width: 500px){
+	.flex-cover-container > #profile-pic {
+    width: 30vw;
+    margin: 20px;
+    text-align: center;
+    height: 20vh;
+  }
+}
+
+@media screen and (max-height: 500px){
+	.flex-cover-container > #profile-pic {
+    width: 18vw;
+    margin: 20px;
+    text-align: center;
+    height: 30vh;
+  }
+}
