@@ -1,36 +1,26 @@
 # Portfolio
 
-  
-
 - Link to your published portfolio website https://seepgulati.co
 
 - Link to your GitHub repository https://github.com/SeepG/Portfolio
 
-  
 
 ## Description of portfolio
-
   
 
-**Purpose**
-
-  
+**Purpose**  
 
 This website will serve as an online showcase of my programming skills.
-
   
 
 **Features**
-
   
 
 - Animation to showcase logo.
 
 - Single page application. Bottom navigation bar with hover effect.
 
-- Three tabs: About, Skills and Contact. When the user clicks those
-tabs, the screen doesn't load each time, giving you a mobile app
-experience.
+- Three tabs: About, Skills and Contact. When the user clicks thosetabs, the screen doesn't load each time, giving you a mobile app experience.
 
 - Hyperlinked icons on skills and contact page open a new tab for
 relevant links.
@@ -44,16 +34,13 @@ relevant links.
 - Primary audience: Recruiters and Teachers
 
 - Secondary audience: Family and Friends
-
-  
+ 
 
 **Site Map**
 
 This website has three pages - About, Skills and Contact
 
-#(TO ADD) - Sitemap![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
-
-  
+![alt text](https://raw.githubusercontent.com/SeepG/Portfolio/master/docs/sitemap.png)
 
 **Screenshots of website**
 
