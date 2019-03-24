@@ -1,6 +1,7 @@
+
 .flex-cover-container {
   display: flex;
-  height: 200px;
+  height: 25vh;
   align-items: flex-start;
   background-image: url("..//img/cover.png");
   justify-content: space-between;
@@ -11,12 +12,33 @@
   margin: 10px;
   text-align: center;
   height: 80px;
+  animation-name: flip;
+	animation-duration: 3s;
+	animation-delay: 2s;
+	animation-iteration-count: 2;
 }
-
 
 .flex-cover-container > #profile-pic {
   width: 145px;
   margin: 20px;
   text-align: center;
   height: 175px;
+}
+
+@media screen and (max-width: 500px){
+	.flex-cover-container > #profile-pic {
+    width: 100px;
+    margin: 20px;
+    text-align: center;
+    height: 130px;
+  }
+}
+
+@media screen and (max-height: 500px){
+	.flex-cover-container > #profile-pic {
+    width: 100px;
+    margin: 20px;
+    text-align: center;
+    height: 130px;
+  }
 }

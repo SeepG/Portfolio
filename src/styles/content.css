@@ -1,43 +1,84 @@
 
 .text-container{
-	border: 2px solid #41D6BF;
-	height: 100%;
+	/* border: 2px solid #41D6BF; */
+	height: 55vh;
 	margin: 2%;
 }
 
 h1{
 	text-align: center;
+	font-family:'Roboto', sans-serif;
+	font-size: 3em;
+	font-weight: bold;
+	color:#41D6BF;
 }
 h2{
 	text-align: center;
+	font-family:'Lato', sans-serif;
+	font-size: 1.2em;
+	font-style: italic;
 }
 
 #text{
-	margin: 1%;
-}
-
-#email{
-	margin: 1%;
-	text-align: center;
-}
-
-#logo {
-	animation-name: flip;
-	animation-duration: 3s;
-	animation-delay: 2s;
-	animation-iteration-count: 2;
+	font-family: 'Lato', sans-serif;
+	display:block;
+	margin: 2%;
 }
 
 #contact{
 	display: flex;
-  align-items: flex-start;
-  justify-content: space-between;
+	align-items: flex-start;
+	justify-content: space-between;
 	margin: 20px;
 }
 
 .skills-icon{
-	height: 60px;
-	width: 60px;
-	color: black;
+	height: 70px;
+	width: 70px;
 }
-	 
+.icon-text{
+	text-align: center;
+}
+
+.icon-container{
+	display: flex;
+	justify-content: space-between;
+	margin: 20px;
+}
+
+.content-scroll{
+	overflow-y: scroll; 
+	height:90vh;
+}
+
+.body-preventscroll{
+	overflow:hidden; 
+	height: 95vh;
+}
+
+@media screen and (max-width: 600px){
+	#contact{
+		flex-direction: column;
+		align-items: center
+	}
+
+	.content-scroll{
+		height: 85vh;
+		overflow-y: scroll;
+	}
+
+}
+
+@media screen and (max-height: 600px){
+	.content-scroll{
+		height: 80vh;
+		overflow-y: scroll;
+	}
+}
+
+@media screen and (max-width: 500px){
+	.icon-container{
+		flex-direction: column;
+		align-items: center;
+	}
+}
