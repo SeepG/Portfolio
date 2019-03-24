@@ -27,18 +27,18 @@
 
 @media screen and (max-width: 500px){
 	.flex-cover-container > #profile-pic {
-    width: 30vw;
+    width: 100px;
     margin: 20px;
     text-align: center;
-    height: 20vh;
+    height: 130px;
   }
 }
 
 @media screen and (max-height: 500px){
 	.flex-cover-container > #profile-pic {
-    width: 16vw;
+    width: 100px;
     margin: 20px;
     text-align: center;
-    height: 30vh;
+    height: 130px;
   }
 }
