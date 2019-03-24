@@ -102,16 +102,27 @@ Deployment - Day 6
 Short Answer Q&A 
 
 **Describe key events in the development of the internet from the 1980s to today (max. 150 words)**
-  
-  
 
+1961: Initial concept of ARPANET, the predecessor of Internet was shared by Leonard Kleinrock.
 
+1965: Two computers at MIT Lincoln Lab communicate with one another using packet-switching technology.
 
+1969: ARPANET was created by J.C.R. Licklider, Kleinrock along with other innovators on August 30, 1969. This research was under the sponsorship of U.S. Defense Department Advanced Research Projects Agency Network (DARPA).
 
+1973: Term ‘Internet’ was coined when University College of London (England) and Royal Radar Establishment (Norway) connected to ARPANE.
 
+1974: Telnet- the first Internet Service Provider was born.
 
+1982: Transmission Control Protocol and Internet Protocol, as the protocol suite, emerge as the protocol for ARPANET. 
 
-  
+1983: The Domain Name System (DNS) establishes the familiar .edu, .gov, .com, .mil, .org, .net, and .int system for naming websites. 
+
+1990: Tim Berners-Lee, CERN scientist, develops HTML.
+
+1991: CERN introduces the World Wide Web to the public.
+
+1998: Google search engine is born. 
+
 **Define and describe the relationship between fundamental aspects of the internet such as: domains, web servers, DNS, and web browsers (max. 150 words)**
 
 Domains are names which client wants to access e.g. seepgulati.co
