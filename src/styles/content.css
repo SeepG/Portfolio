@@ -66,6 +66,7 @@ h2{
 	.content-scroll{
 		height: 85vh;
 		overflow-y: scroll;
+		scroll-behavior: smooth;
 	}
 
 }
@@ -74,6 +75,7 @@ h2{
 	.content-scroll{
 		height: 80vh;
 		overflow-y: scroll;
+		scroll-behavior: smooth;
 	}
 }
 
