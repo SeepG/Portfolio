@@ -49,6 +49,7 @@ h2{
 .content-scroll{
 	overflow-y: scroll; 
 	height:90vh;
+	scroll-behavior: smooth;
 }
 
 .body-preventscroll{
