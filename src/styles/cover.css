@@ -19,8 +19,8 @@
 }
 
 .flex-cover-container > #profile-pic {
-  width: 145px;
+  width: 12vw;
   margin: 20px;
   text-align: center;
-  height: 175px;
+  height: 20vh;
 }
