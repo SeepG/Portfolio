@@ -1,18 +1,13 @@
 # Portfolio
 
-- Link to your published portfolio website https://seepgulati.co
-
-- Link to your GitHub repository https://github.com/SeepG/Portfolio
-
+- Portfolio website https://seepgulati.co
 
 ## Description of portfolio
   
-
 **Purpose**  
 
 This website will serve as an online showcase of my programming skills.
   
-
 **Features**
   
 - Animation to showcase logo.
@@ -48,7 +43,6 @@ relevant links.
 
 ![alt_text](https://raw.githubusercontent.com/SeepG/Portfolio/master/docs/website/Emailform.png)
 
-
 Tech stack (e.g. HTML, CSS, deployment platform, etc.)
 
 - [ ] Designing and Userablity considerations
@@ -69,16 +63,9 @@ Tech stack (e.g. HTML, CSS, deployment platform, etc.)
 
 - [ ] Documentation
 
-**Design planning **
-
-Absolute link: https://github.com/SeepG/Portfolio/tree/master/docs/design
-
-[This is an relative link to design](docs/design)
-
 **Design process**
 
 This website is designed as *'mobile-first'*. However, it is responsive and works in Desktop as well.
-
 
 **Wireframes - Screenshots**
 
@@ -88,11 +75,9 @@ Absolute link - https://github.com/SeepG/Portfolio/tree/master/docs/wireframes
 
 Wireframes were designed for Mobile and Desktop versions that gave a clear idea about the design and code flow.
 
-#(TO ADD) - Picture Personal logo
+**Personal logo**
 
 ![alt text](https://raw.githubusercontent.com/SeepG/Portfolio/master/docs/sglogo-1.png)
-
-**Personal logo**
 
 Purpose - I designed this personal logo to serve as my brand identity.
 
