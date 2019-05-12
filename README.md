@@ -125,7 +125,8 @@ Therefore, the design reflects this user-behaviour research. The main content is
 
 - Deployment - Day 6
 
-**Screenshots of Trello board(s)**
+**Trello board(s)**
 
 Trello Board - https://trello.com/b/wCKoXZpP/portfolio
+
 Trello screenshots - https://github.com/SeepG/Portfolio/tree/master/docs/trello
