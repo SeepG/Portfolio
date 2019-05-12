@@ -71,8 +71,6 @@ This website is designed as *'mobile-first'*. However, it is responsive and work
 
 Absolute link - https://github.com/SeepG/Portfolio/tree/master/docs/wireframes
 
-[This is an relative link to wireframes](docs/wireframes)
-
 Wireframes were designed for Mobile and Desktop versions that gave a clear idea about the design and code flow.
 
 **Personal logo**
