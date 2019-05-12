@@ -127,6 +127,5 @@ Therefore, the design reflects this user-behaviour research. The main content is
 
 **Screenshots of Trello board(s)**
 
-Absoloute link - https://github.com/SeepG/Portfolio/tree/master/docs/trello
-
-[This is an relative link to trello](docs/trello)
+Trello Board - https://trello.com/b/wCKoXZpP/portfolio
+Trello screenshots - https://github.com/SeepG/Portfolio/tree/master/docs/trello
