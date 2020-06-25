@@ -1,6 +1,6 @@
 # Portfolio
 
-- Portfolio website https://seepgulati.co
+- Portfolio website https://seepgulati.netlify.app/
 
 ## Description of portfolio
   
